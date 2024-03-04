@@ -1,0 +1,3 @@
+clash规则
+
+配合RouterOS Mangle通过CN_list分流到clash后,通过ipv4策略分流
