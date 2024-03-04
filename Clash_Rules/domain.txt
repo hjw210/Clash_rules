@@ -1,0 +1,10 @@
+microsoft.com
+cn.bing.com
+copilot.microsoft.com
+openai.com
+auth.openai.com
+auth0.openai.com
+chat.openai.com
+ios.chat.openai.com
+android.chat.openai.com
+Gemini.Google.com
